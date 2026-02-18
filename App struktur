@@ -1,0 +1,4 @@
+app/layout.js
+app/page.js
+app/leaderboard/page.js
+lib/supabase.js
